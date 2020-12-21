@@ -1,0 +1,79 @@
+body {
+    background-color: #6f91c1;)
+
+}
+h5 {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+    height: 50px;
+    background-color: #5b7dbf;
+    border: 2px solid white;
+    font-size: xxx-large;
+    text-align: center;
+    bottom: 100px;
+    color: white;
+}
+
+
+
+/*navigation bar*/
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 20px;
+
+
+}
+li {
+    float:left;
+}
+li a{
+    display: block;
+    color: white;
+    position: relative;
+    bottom: 31px;
+    border: 2px solid white;
+    font-size: large;
+    background-color:#5b7dbf;
+    padding: 5px 12px;
+    text-decoration: #5b7dbf;
+}
+li a:hover {
+    background-color: white;
+    color:#5b7dbf;
+}
+
+/*end navigation bar*/
+
+/* main section*/
+
+
+h3 {
+    color: white;
+
+}
+
+/*about me*/
+
+table, th, td {
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #5b7dbf;
+    border: 1px solid white;
+    color: white;
+
+}
+
+/* personal development */
+
+p {
+    color:white;
+    font-family: "Copperplate";
+}
+
+h1 {
+    color: white;
+    font-family: "italic";
+}
